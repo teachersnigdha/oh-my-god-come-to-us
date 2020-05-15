@@ -30,4 +30,10 @@ How will your world move on?
 Oh my God, come to us.
 ```
 
+> Styles: [English], [Odia], [Translated].
+
 - Snigdharani Sahu
+
+[English]: README.md
+[Odia]: odia.md
+[Translated]: translated.md
