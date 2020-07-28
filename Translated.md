@@ -1,3 +1,8 @@
+![](assets/img/man-on-boat-holding-white-mesh-fishing-net-2131904.jpg)
+
+> Styles: [English](README.md), [Odia](Odia.md), [Translated](Translated.md).<br>
+> [Click here to listen](https://soundcloud.com/teachersnigdha/all-are-our-own).
+
 ```
 Forgiveness, now Srihar,
 I beg you for ever,
@@ -30,4 +35,5 @@ How to walk, your world,
 The incarnation of God is my God.
 ```
 
-- Snigdharani Sahu
+- Poem by Snigdharani Sahoo
+- Photo by Quang Nguyen Vinh from Pexels

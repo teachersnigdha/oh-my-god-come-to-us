@@ -1,3 +1,8 @@
+![](assets/img/man-on-boat-holding-white-mesh-fishing-net-2131904.jpg)
+
+> Styles: [English](README.md), [Odia](Odia.md), [Translated](Translated.md).<br>
+> [Click here to listen](https://soundcloud.com/teachersnigdha/all-are-our-own).
+
 ```
 Please forgive me, my Lord Shiv
 I beg you for ever,
@@ -30,10 +35,5 @@ How will your world move on?
 Oh my God, come to us.
 ```
 
-> Styles: [English], [Odia], [Translated].
-
-- Snigdharani Sahu
-
-[English]: README.md
-[Odia]: odia.md
-[Translated]: translated.md
+- Poem by Snigdharani Sahoo
+- Photo by Quang Nguyen Vinh from Pexels
